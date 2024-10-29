@@ -7,7 +7,7 @@
 
 class CU {
 public:
-    void load(int idxReg, int intMem, Register& reg, Memory& mem);
+    void load(int idxReg, int intMem, Register& reg, Memory& mem); //fkjgfkgjfkgjfkgj
     void load(int idxReg, std::string val, Register& reg);
     void store(int idxReg, int idxMem, Register& reg, Memory& mem);
     void move(int idx1Reg, int idx2Reg, Register& reg);
